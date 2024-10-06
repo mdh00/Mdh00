@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhini</h1>
 <h3 align="center">A passionate undergraduate developer eager to learn and grow in the field of software development</h3>
 
-- 🔭 I’m currently working on [KpopShop Nexus](https://github.com/ITP-2024)
+- 🔭 I’m currently working on [GreenWay and WellnessApp](https://github.com/orgs/SE-Y3S1/repositories)
 
-- 🌱 I’m currently learning **React, Next, Spring Boot, Kotlin, Java**
+- 🌱 I’m currently learning **React, Next.js, React Native, Express, Python **
 
 - 📫 How to reach me **madhini00@gmail.com**
 
