@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [HirelyAI](https://github.com/mdh00/HirelyAI-front-end)
 
-- 🌱 I’m currently learning **React, Next.js, React Native, Express, Python**
+- 🌱 I’m currently learning **React, Next.js, React Native, Express**
 
 - 📫 How to reach me **madhini00@gmail.com**
 
